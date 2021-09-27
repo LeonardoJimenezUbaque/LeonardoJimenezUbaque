@@ -3,8 +3,7 @@
 </div>
 <h1 align="center">Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, soy Leonardo Jiménez Ubaque</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas - Universidad EAN</h3>
-
-<p></p>
+<br>
 
 - 📚📓 Actualmente estudio en la [Universidad EAN](https://universidadean.edu.co/)
 
