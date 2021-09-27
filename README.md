@@ -26,3 +26,5 @@
 
 <h3 align="left">Lenguajes y Herramientas:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc" width="40" height="40"/> </a>  </p>
+  
+<div align="center"><img width="8000" height="350" src="https://inbound.qualium.mx/hs-fs/hubfs/intuitivas-automatizacion-de-marketing-qualium.gif?width=500&name=intuitivas-automatizacion-de-marketing-qualium.gif" alt="cover" /></div>
