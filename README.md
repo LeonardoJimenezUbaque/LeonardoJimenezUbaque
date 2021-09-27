@@ -4,6 +4,8 @@
 <h1 align="center">Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, soy Leonardo Jiménez Ubaque</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas - Universidad EAN</h3>
 
+<p></p>
+
 - 📚📓 Actualmente estudio en la [Universidad EAN](https://universidadean.edu.co/)
 
 - 📗🎓 Soy estudiante de la [Facultad de Ingeniería](https://universidadean.edu.co/facultades/facultad-de-ingenieria)
@@ -12,7 +14,7 @@
 
 - 👨‍💻 Me gustaría enfocarme en **ciberseguridad, desarrollo de software**
 
-- 📱💻Me interesa todo lo relacionado con el mundo de la tecnología **tecnología**
+- 📱💻Me interesa todo lo relacionado con el mundo de la **tecnología**
 
 - 📧📫 Contacto por e-mail **jimenezubaqueleonardo@gmail.com**
 
